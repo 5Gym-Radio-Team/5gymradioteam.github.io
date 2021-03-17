@@ -3,31 +3,32 @@ a {
 }
 
 body {
+  height: 100%;
   background-color: #E3E2E1;
   font-family: 'Roboto', sans-serif;
 }
 
 .imagesdiv {
-  width: 100%;
+  max-height: 400px;
   overflow: hidden;
 }
 
 /* Όλα τα div μέσα στο imagesdiv */
 .imagesdiv > div {
   height: 400px;
-  width: 33%;
+  width: 32%;
   background-size: 100% 100%;
   float: left;
 }
 
 .logodiv {
   margin-left: 1px;
-  margin-right: 7px;
+  margin-right: 1%;
   background-image: url("../resources/logo big.jpg");
 }
 
 .march25div {
-  margin-right: 7px;
+  margin-right: 1%;
   background-image: url("../resources/march25.jpg");
 }
 
