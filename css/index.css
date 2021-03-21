@@ -45,6 +45,7 @@ body {
   transform: translate(-50%, -50%);
   border: 1px solid black;
   font-size: 1.9rem;
+  text-align: center;
 }
 
 .whoarewe {
