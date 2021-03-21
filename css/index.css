@@ -37,20 +37,20 @@ body {
 }
 
 .welcomediv {
-  position: relative;
+  margin-top: 5%;
   width: 40%;
   /* Χωρίς δικό του χρώμα παίρνει από τις φωτογραφίες */
   background-color: #E3E2E1;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  border: 1px solid black;
+  margin-left: auto;
+  margin-right: auto;
+  border: 10px solid black;
   font-size: 1.9rem;
   text-align: center;
 }
 
 .whoarewe {
   font-size: 2rem;
-  margin-top: 2%;
+  margin-top: 5%;
   margin-bottom: 5%;
   text-align: center;
 }
@@ -70,6 +70,12 @@ body {
   font-size: 2rem;
   text-align: center;
   margin-bottom: 5%;
+}
+
+.upcomingshow {
+  margin-bottom: 5%;
+  font-size: 2rem;
+  text-align: center;
 }
 
 .findus {
