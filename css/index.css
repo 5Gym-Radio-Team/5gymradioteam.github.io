@@ -48,6 +48,12 @@ body {
   text-align: center;
 }
 
+.upcomingshow {
+  margin-bottom: 5%;
+  font-size: 2rem;
+  text-align: center;
+}
+
 .whoarewe {
   font-size: 2rem;
   margin-top: 5%;
@@ -70,12 +76,6 @@ body {
   font-size: 2rem;
   text-align: center;
   margin-bottom: 5%;
-}
-
-.upcomingshow {
-  margin-bottom: 5%;
-  font-size: 2rem;
-  text-align: center;
 }
 
 .findus {
