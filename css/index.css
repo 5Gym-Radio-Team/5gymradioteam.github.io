@@ -27,9 +27,9 @@ body {
   background-image: url("../resources/logo big.jpg");
 }
 
-.march25div {
+.sexualabusediv {
   margin-right: 1%;
-  background-image: url("../resources/march25.jpg");
+  background-image: url("../resources/sexual abuse.jpg");
 }
 
 .cretediv {
@@ -90,4 +90,9 @@ body {
 .sourceparagraph {
   font-size: 1.5rem;
   margin-top: 5%;
+}
+
+.tellusyouropinion {
+  font-size: 2rem;
+  text-align: center;
 }
