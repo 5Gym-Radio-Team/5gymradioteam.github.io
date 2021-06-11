@@ -21,10 +21,10 @@ body {
   float: left;
 }
 
-.logodiv {
+.podcastsdiv {
   margin-left: 1%;
   margin-right: 1%;
-  background-image: url("../resources/logo big.jpg");
+  background-image: url("../resources/podcasts.jpg");
 }
 
 .sexualabusediv {
@@ -52,6 +52,10 @@ body {
   margin-bottom: 5%;
   font-size: 2rem;
   text-align: center;
+}
+
+.podcastslogodiv {
+  background-image: url("../resources/podcasts.jpg")
 }
 
 .whoarewe {
