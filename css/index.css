@@ -21,6 +21,17 @@ body {
   float: left;
 }
 
+@media only screen and (hover: none) and (pointer: coarse){
+  .imagesdiv > div {
+    height: 37%;
+    width: 32%;
+    background-size: 100% 100%;
+    float: left;
+  }
+
+}
+
+
 .travellingdiv {
   margin-left: 1%;
   margin-right: 1%;
