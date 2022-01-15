@@ -15,7 +15,7 @@ body {
 
 /* Όλα τα div μέσα στο imagesdiv */
 .imagesdiv > div {
-  height: 200px;
+  height: 150px;
   width: 32%;
   background-size: 100% 100%;
   float: left;
