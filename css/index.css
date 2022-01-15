@@ -15,16 +15,17 @@ body {
 
 /* Όλα τα div μέσα στο imagesdiv */
 .imagesdiv > div {
-  height: 400px;
+  height: 200px;
   width: 32%;
   background-size: 100% 100%;
   float: left;
 }
 
-@media only screen and (hover: none) and (pointer: coarse){
+/* Αυτός ο κώδικας θα εφαρμοστεί όταν η συσκευή δεν είναι κινητό */
+@media (hover: hover) {
   .imagesdiv > div {
-    height: 32%;
-    width: 37%;
+    height: 400px;
+    width: 32%;
     background-size: 100% 100%;
     float: left;
   }
