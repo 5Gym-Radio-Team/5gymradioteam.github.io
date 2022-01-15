@@ -23,8 +23,8 @@ body {
 
 @media only screen and (hover: none) and (pointer: coarse){
   .imagesdiv > div {
-    height: 37%;
-    width: 32%;
+    height: 32%;
+    width: 37%;
     background-size: 100% 100%;
     float: left;
   }
